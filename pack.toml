@@ -1,0 +1,13 @@
+name = "CozyPack"
+author = "Jonas"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "33e300444c0db2783d2748f8a7b42cf7c49fc8b76d078a2cd950604cb880b311"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.249"
