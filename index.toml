@@ -1,47 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/CozyPack.iml"
-hash = "c96ea0b5b29abb7d5807671dd208fd63f63694dd236335d2fe8c074e89e94aa6"
-
-[[files]]
-file = ".idea/inspectionProfiles/Project_Default.xml"
-hash = "725960a07196ca7e40f4c7343c9b56132ec0a79956ab048cd6568c27dc68d50c"
-
-[[files]]
-file = ".idea/libraries/mods.xml"
-hash = "0f7f871cbc3c66a7a3b98690a5ab869ad5e2ac98f88ad8d2be5a7f13580dbb7d"
-
-[[files]]
-file = ".idea/libraries/packs.xml"
-hash = "8e01a6828d3612d5422eb6caaca7b9db21d2778c6f0c50ab309a7bb3ef5cafd5"
-
-[[files]]
-file = ".idea/libraries/resourcepacks.xml"
-hash = "72787125c58337ed929e26e6c444bd92af734bbfaba147e7ece3eca5773da301"
-
-[[files]]
-file = ".idea/libraries/shaderpacks.xml"
-hash = "1894f95c7446dee3bb5d7e3a971cbba7ce21191fc4ca6c846fa86dec982f85b7"
-
-[[files]]
-file = ".idea/misc.xml"
-hash = "d337e56519e529114ea028419da6545dc89c7cdd93c57b1507ef67eaf986e2aa"
-
-[[files]]
-file = ".idea/modules.xml"
-hash = "ae65e5118814936ccf13b2513f78bafc17b68e9c43dad7982b896edf65351daa"
-
-[[files]]
-file = ".idea/vcs.xml"
-hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "7fbfde4c9dbdb96f6cb8706a34f7a77d42b21645573d1c16c70c47046781d9f4"
-
-[[files]]
 file = ".nojekyll"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packignore"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
